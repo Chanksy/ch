@@ -121,6 +121,7 @@ to add a new app-daemon communication function, add in:
 
 
 to add a new key & function, add in:
+	
 	app>src:
 	domain>chonkerkeys>AppTypeAction.tsx
 	domain>chonkerkeys>KeyboardActionType.tsx
