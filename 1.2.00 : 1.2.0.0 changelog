@@ -1,0 +1,17 @@
+What's new in 1.2.00 (macOS)
+General
+- The ChonkerKeys configuration window can be closed by holding or double-tapping the CMD+W keyboard shortcut
+- The ChonkerKeys app can now be quit by holding or double-tapping the CMD+Q keyboard shortcut
+- Special buttons can now be individually selected and added as part of your macros in the "Custom" action input
+- The ChonkerKeys app now also informs users of new versions through the menu bar icon and a push notification
+- Fixed a bug where horizontal 3u keys could be rotated to invalid positions when configuring a ChonkerKeys Original
+- Fixed a bug where lighting colour "Off" would preview as White
+- Fixed a bug where Custom actions could be assigned lighting colours that weren't reflected on press
+
+What's new in 1.2.0.0 (Windows)
+General
+- Special buttons can now be individually selected and added as part of your macros in the "Custom" action input
+- The ChonkerKeys app now also informs users of new versions through the taskbar icon and a push notification
+- Fixed a bug where horizontal 3u keys could be rotated to invalid positions when configuring a ChonkerKeys Original
+- Fixed a bug where lighting colour "Off" would preview as White
+- Fixed a bug where Custom actions could be assinged lighting colours that weren't reflected on press
